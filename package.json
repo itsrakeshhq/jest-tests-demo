@@ -1,0 +1,33 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial on how to write test for expressjs and mongoose applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsrakeshhq/jest-tests-demo.git"
+  },
+  "keywords": [
+    "testing",
+    "expressjs",
+    "nodejs",
+    "mongodb",
+    "mongoose",
+    "jest",
+    "supertest"
+  ],
+  "author": "Rakesh Potnuru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsrakeshhq/jest-tests-demo.git/issues"
+  },
+  "homepage": "https://github.com/itsrakeshhq/jest-tests-demo.git#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
